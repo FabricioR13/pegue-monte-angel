@@ -14,8 +14,11 @@ Dê dois cliques. Abre no navegador com o catálogo, a sacolinha e o painel func
 É uma **demonstração**: os pedidos ficam guardados só naquele navegador, então ela serve
 para mostrar e testar, não para receber pedidos de clientes de verdade.
 
-Para enviar por link, publique o `index.html` (é a mesma página), por exemplo no
-GitHub Pages. Depois de mudar algo, rode `npm run demo` para gerar os dois arquivos de novo.
+A mesma demonstração está publicada na internet, para enviar por link:
+**https://fabricior13.github.io/pegue-monte-angel/**
+(é o `index.html` do repositório https://github.com/FabricioR13/pegue-monte-angel, servido
+pelo GitHub Pages). Depois de mudar algo, rode `npm run demo` e envie o novo `index.html`
+para o repositório.
 
 ### 2. Rodar o site no computador — `Iniciar catalogo.bat`
 Dê dois cliques. Na primeira vez ele instala as dependências (precisa do

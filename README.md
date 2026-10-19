@@ -2,6 +2,8 @@
 
 Catálogo online com reserva por data, sacolinha, pedido enviado pelo WhatsApp e painel para a dona.
 
+**Demonstração:** https://fabricior13.github.io/pegue-monte-angel/
+
 A demonstração (`Demonstracao.html` / `index.html`) roda inteira no navegador: os pedidos e
 cadastros de teste ficam salvos só no aparelho de quem abriu. O painel abre pelo link na faixa do topo.
 
